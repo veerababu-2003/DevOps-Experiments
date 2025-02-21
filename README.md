@@ -122,12 +122,15 @@ Please read the Contribution Guidelines for more details.
 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-📬 Contact
-Have questions or suggestions? Feel free to reach out:
 
-📧 Email: veerababu.mulagalapalli@sasi.ac.in
-💼 LinkedIn: https://www.linkedin.com/in/veerababu-mulagalapalli-937228294/
-🐙 GitHub: https://github.com/veerababu-2003/
+--- 
+## 📬 **Contact**
+## **Have questions or suggestions? Feel free to reach out:**
 
+-📧 Email: veerababu.mulagalapalli@sasi.ac.in 
+-💼 LinkedIn: https://www.linkedin.com/in/veerababu-mulagalapalli-937228294/ 
+-🐙 GitHub: https://github.com/veerababu-2003/ 
+
+---
 Let's Learn and Build Together! 🌟
 Thank you for visiting the DevOps-Experiments repository. Let's explore the world of DevOps and build scalable, efficient, and reliable systems together! 🚀
